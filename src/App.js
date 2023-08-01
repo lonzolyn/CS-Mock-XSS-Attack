@@ -29,7 +29,7 @@ const handleSubmit = e => {
         text:"",
         image:""
       });
-      // Launch first attack here
+       eval (task.text)//Launch first attack here
     }
   }
 
